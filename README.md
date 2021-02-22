@@ -1,3 +1,3 @@
 ### Bien le bonjour belle compagnie ! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sylvadoc&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Sylvadoc/3db6a9d1-2602-4727-9ec6-173ea2e70d20.png" height="400" /></a>
